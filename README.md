@@ -13,6 +13,6 @@
 ![webpack](https://img.shields.io/badge/webpack-00A1E9?style=for-the-badge&logo=webpack&logoColor=white)![babel](https://img.shields.io/badge/babel-EAB300?style=for-the-badge&logo=babel&logoColor=white)![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)![bitbacket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)![yarn](https://img.shields.io/badge/yarn-%232E87FB.svg?&style=for-the-badge&logo=yarn&logoColor=white)![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🤝Connect with me
-[![Email](https://img.shields.io/badge/mail-3A76F0?style=for-the-badge&logo=mail&logoColor=white)](fedechkin-kiril@mail.ru)
+[![Email](https://img.shields.io/badge/mail-3A76F0?style=for-the-badge&logo=mail&logoColor=white)](mailto:fedechkin-kiril@mail.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kfedechkin)
 
