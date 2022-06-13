@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> Hello there! I'm Kiril Fedechkin
+# 👋 Hello there! I'm Kiril Fedechkin
 
 - 🇷🇺 &nbsp;Currently I live in Russia, Ryazan
 - 🔥 &nbsp;Most of the time I'm writing on **Typescript**
