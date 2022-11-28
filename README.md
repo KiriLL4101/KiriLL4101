@@ -1,8 +1,10 @@
 # 👋 Hello there! I'm Kiril Fedechkin
 
-- 🇷🇺 &nbsp;Currently I live in Russia, Ryazan
 - 🔥 &nbsp;Most of the time I'm writing on **Typescript**
-- 🍕 &nbsp;I'm interested in **Micro-frontend on MFE**
+- ⚛️ &nbsp;I'm interested in **Micro-frontend on MFE**
+- 💬 Ask me about **Web Development**
+- :purple_heart: Kind people are my kinda people
+- :star: Uniquely naive tho independent
 
 ## 🛠 My fancy badge area
 ### Frontend
